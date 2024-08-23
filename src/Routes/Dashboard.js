@@ -1,15 +1,15 @@
-import React from 'react'
+import React from 'react';
 
 import Navbar from '../Components/Navbar';
 import Footer from '../Components/Footer';
 
-const Contact = () => {
+const Dashboard = () => {
   return (
     <div>
-      <Navbar />
-      <Footer />
+        <Navbar />
+        <Footer />
     </div>
   )
 }
 
-export default Contact
+export default Dashboard
